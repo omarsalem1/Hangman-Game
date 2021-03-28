@@ -1,0 +1,24 @@
+Server: lost
+Client: win
+score:0
+Date: 25/02/2021 20:16:51
+Server: lost
+Client: win
+score:0
+Date: 25/02/2021 20:20:48
+Server: lost
+Client: win
+score:0
+Date: 25/02/2021 20:28:49
+Server: lost
+Client: win
+score:0
+Date: 25/02/2021 20:33:50
+Server: lost
+Client: win
+score:0
+Date: 25/02/2021 20:36:37
+Server: Win
+Client: lose
+score:1
+Date: 25/02/2021 20:42:00
